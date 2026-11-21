@@ -92,27 +92,6 @@ Performed analytical queries across multiple business dimensions:
 - Restaurant and category-level rating comparisons.
 - Analysis of rating counts.
 
-## Repository Structure
-
-```text
-swiggy-sales-analysis-sql/
-│
-├── README.md
-│
-├── sql/
-│   └── Swiggy_Sales_Analysis_MySQL.sql
-│
-├── data/
-│   └── Swiggy_Data.csv
-│
-├── results/
-│   └── query-results/
-│
-└── screenshots/
-    ├── schema/
-    └── query-outputs/
-```
-
 ## How to Run the Project
 
 1. Install MySQL 8.0 and MySQL Workbench.
