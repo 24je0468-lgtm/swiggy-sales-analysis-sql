@@ -1,0 +1,7 @@
+table_name,row_count
+dim_date,243
+dim_location,961
+dim_restaurant,984
+dim_category,4730
+dim_dish,53988
+fact_swiggy_orders,197401

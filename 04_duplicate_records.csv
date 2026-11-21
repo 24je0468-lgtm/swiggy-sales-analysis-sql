@@ -1,0 +1,28 @@
+state,city,order_date,restaurant_name,location,category,dish_name,price_inr,rating,rating_count,duplicate_count
+Karnataka,Bengaluru,27-02-2025,"Chinese Wok","Kengeri Satellite Town",Drinks,"7 Up",57,4.1,"10",2
+Karnataka,Bengaluru,27-01-2025,"The Belgian Waffle Co.",Kengeri,Recommended,"Mini Waffle Box of 6 - Assorted",525,4.9,"11",2
+Karnataka,Bengaluru,15-08-2025,"Kanti Sweets",Kengeri,Snacks,"Babycorn Puff",37.14,4.9,"22",2
+Karnataka,Bengaluru,13-08-2025,"Grameen Kulfi","KENGERI UPANAGAR","Matka Kulfi","Desi Malai Matka Kulfi (pack Of 2)",152.54,4.9,"26",2
+Karnataka,Bengaluru,22-02-2025,"Olio - The Wood Fired Pizzeria",Whitefield,Desserts,"Tiramisu Doughnut Cake",139,3.9,"1",2
+"West Bengal",Kolkata,12-04-2025,"Veg Darbar by Behrouz Biryani",Thakurpukur,"Royal Curry & Thali","Royal Paneer Tikka Masala Thali",379,4.4,"0",2
+"West Bengal",Kolkata,04-01-2025,"Sweet Truth - Cake and Desserts",Thakurpukur,"Cheesecake Slices","Mango Cheesecake",209,4.6,"140",2
+Gujarat,Ahmedabad,10-07-2025,McDonald's,Ghatlodia,"McSaver Combos (2 Pc Meals)","Mc Crispy Chicken Burger + Piri Piri Fries (M)",360,4,"2",2
+Gujarat,Ahmedabad,19-08-2025,McDonald's,Ghatlodia,"Protein Plus and Burgers with Millet Bun","McCrispy Chicken Burger Protein Plus (2 Slices)",279,4.4,"0",2
+Gujarat,Ahmedabad,04-08-2025,"Jayhind Sweets",Ghatlodia,Namkeen,"Bombay Mixer",94,4.4,"0",2
+Gujarat,Ahmedabad,16-01-2025,"McDonald's Gourmet Burger Collection",Ghatlodia,"Burgers & Wraps","Big Spicy Paneer Wrap",241.9,5,"4",2
+Gujarat,Ahmedabad,17-01-2025,"McDonald's Gourmet Burger Collection",Ghatlodia,"Fries & Sides","Piri Piri Spice Mix",23.8,4.7,"4",2
+Gujarat,Ahmedabad,02-01-2025,"McDonald's Gourmet Burger Collection",Ghatlodia,"Coffee & Beverages (Hot and Cold)","American Mud Pie Shake",205,4.4,"0",2
+Gujarat,Ahmedabad,30-04-2025,"Veg Meals by Lunchbox",Sola,"Starters and Beverages","Lemon Soda (250 mL)",49,4.4,"0",2
+Gujarat,Ahmedabad,19-06-2025,"Faasos' Signature Wraps & Rolls",Sola,"Breakfast Specials","Double Egg Chatpata Roll",109,5,"1",2
+Gujarat,Ahmedabad,13-07-2025,KFC,"Prahlad Nagar",Recommended,"Korean Tangy Chicken Roll",139,4.2,"99",2
+Gujarat,Ahmedabad,11-05-2025,KFC,"Prahlad Nagar","Hot & Crispy Chicken & Wings","Hot & Crispy Chicken - 8 pcs",799.05,3.5,"79",2
+Rajasthan,Jaipur,06-07-2025,"PINK CITY FOOD CORNER","Laxmi Vihar",Combos,"Popcorn+ Cold Drink",99,4.4,"0",2
+Punjab,Chandigarh,12-04-2025,"Olio - The Wood Fired Pizzeria","SECTOR 24","Kids Special - Pizza Party","Kids Birthday Pizza Party with Chocolate Cake (pack of 10)",3499,4.4,"0",2
+Punjab,Chandigarh,24-07-2025,"The Dessert Heaven - Pastry, Brownie and Cakes","Sector 24",Cupcakes,"Dark Chocolate Cupcake",99,3.6,"3",2
+Punjab,Chandigarh,17-03-2025,KFC,"Sector 15","Epic Value Meals for 1-2 (up to Rs 22% off)","Classic Roll Mojito Meal",342.87,3.3,"1",2
+Punjab,Chandigarh,11-06-2025,KFC,"Sector 15","Desserts & Beverages","Hazelnut Iced Cappuccino reusable",209,4.4,"0",2
+"Madhya Pradesh",Indore,18-05-2025,"Maa Ki Rasoi","Vijay Nagar",Chinese,"Honey Chilly Potato",138,4.4,"0",2
+Punjab,Chandigarh,06-02-2025,"Burger King",Panchkula,"Korean Spicy Fest(Limited Time Only)","Korean Spicy Chicken (7 Pc)",299,4.4,"0",2
+Mizoram,Aizawl,29-04-2025,"Domino's Pizza",Only_Dominos_Aizawl,"Burgers & Parcels","Tandoori Loaded Paneer Parcel",139,4.4,"0",2
+Mizoram,Aizawl,08-03-2025,"Domino's Pizza",Only_Dominos_Aizawl,"Chicken Burst","Southern Spice Chicken Burst Pizza (Reg)",449,4.4,"0",2
+Mizoram,Aizawl,28-02-2025,"Domino's Pizza",Only_Dominos_Aizawl,"Chicken Burst","Garlic Chicken Burst Pizza (Reg)",449,4.4,"0",2

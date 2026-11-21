@@ -1,0 +1,11 @@
+restaurant_name,total_records,aggregate_dish_price_inr,average_rating
+McDonald's,13528,3342455.58,4.40
+KFC,12957,4245461.78,4.30
+"Burger King",7115,1900518.09,4.34
+"Pizza Hut",6529,2133265.69,4.20
+"Domino's Pizza",5489,1832985.32,4.37
+"LunchBox - Meals and Thalis",4700,1101141.00,4.37
+"Baskin Robbins - Ice Cream Desserts",4197,860591.94,4.43
+"Faasos - Wraps, Rolls & Shawarma",3256,780215.00,4.36
+"Olio - The Wood Fired Pizzeria",3239,1232731.00,4.29
+"The Good Bowl",2665,673343.00,4.34
